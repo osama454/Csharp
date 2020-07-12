@@ -1,0 +1,10 @@
+<KerasModel>.compile(optimizer ='<optimizer>',
+	loss='<loss>',
+	metrics=['<metrics>'])
+<***>
+KerasModel
+optimizer={adam,RMSprop,SGD,Adagrad,Adadelta,Adamax,Nadam}
+loss={sparse_categorical_crossentropy,categorical_crossentropy,binary_crossentropy}:0
+metrics={acc,accuracy}:0
+
+
